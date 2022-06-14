@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/quickfixgo/quickfix"
+	"github.com/mxpaul/quickfix"
 )
 
 func TestFIXUTCTimestampWrite(t *testing.T) {

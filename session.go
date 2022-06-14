@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/quickfixgo/quickfix/datadictionary"
-	"github.com/quickfixgo/quickfix/internal"
+	"github.com/mxpaul/quickfix/datadictionary"
+	"github.com/mxpaul/quickfix/internal"
 )
 
 //The Session is the primary FIX abstraction for message communication

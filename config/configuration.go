@@ -1,6 +1,6 @@
 package config
 
-//NOTE: Additions to this file should be made to both config/doc.go and http://www.quickfixgo.org/docs/
+//NOTE: Additions to this file should be made to both config/doc.go and http://www.mxpaul.org/docs/
 
 //Const configuration settings
 const (
